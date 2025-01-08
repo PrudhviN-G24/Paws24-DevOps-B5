@@ -168,8 +168,8 @@ If a directory should be accessible to the group `developers`:
 drwxrwx--- 2 alice developers 4096 Jan 1 12:00 shared_dir
    ```
    - Now all members of the `developers` group can access the directory.
+   ```
 
----
 
 ### Sticky Bit
 
